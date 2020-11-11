@@ -5,3 +5,6 @@ def printf(msg):
     print(msg)
 
 # comment
+
+def print_gerardo():
+    print("Gerardo")
