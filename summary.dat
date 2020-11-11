@@ -1,0 +1,5 @@
+1. check changes (git status)
+2. add changes to the stage folder (git add .)
+3. Commit changes in stage folder (git commmit) - code is not updated in the server yet
+    3.1 add comments (file)
+4. Push changes to GitHub / server (git push)
