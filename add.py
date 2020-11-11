@@ -4,3 +4,5 @@ def add(a,b):
 def printf(msg):
     print(msg)
 
+def substract(a,b):
+    print(a-b)
